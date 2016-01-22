@@ -30,7 +30,7 @@ namespace RectAndJaggedArray
             for (int row = 0; row < array.GetLength(0); row++)
             {
                 for (int column = 0; column < array.GetLength(1); column++)
-                    Console.WriteLine("{0} ", array[row, column]);
+                    Console.WriteLine(" {0}", array[row, column]);
 
                 Console.WriteLine();
             }
@@ -42,7 +42,7 @@ namespace RectAndJaggedArray
             foreach (int[] row in array)
             {
                 foreach (int[] column in array)
-                    Console.WriteLine("{0} ", column);
+                    Console.WriteLine("{0} ", column.ToString());
 
                 Console.WriteLine();
             }

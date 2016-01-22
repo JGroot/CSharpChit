@@ -9,15 +9,26 @@ namespace CSList
     {
         static void Main(string[] args)
         {
-            List<string> items = new List<string>();
+            List<string> items = new List<string>() { "yellow"};
 
             items.Add("red");
             items.Add("blue");
             items.Add("green");
             items.Insert(0, "purple");
 
+            DisplayArray(items);
+           
+
+            Console.WriteLine("Going to remove yellow....");
+            items.RemoveAt(1);
+            DisplayArray(items);
+           
+        }
+
+        private static void DisplayArray(List<string> items)
+        {
             foreach (string item in items)
-                Console.WriteLine(item);
+                Console.WriteLine(items.IndexOf(item) + "  " + item);
         }
     }
 }
