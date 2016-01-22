@@ -18,8 +18,7 @@ namespace CSList
 
             DisplayArray(items);
            
-
-            Console.WriteLine("Going to remove yellow....");
+            Console.WriteLine("Removing yellow....");
             items.RemoveAt(1);
             DisplayArray(items);
            
