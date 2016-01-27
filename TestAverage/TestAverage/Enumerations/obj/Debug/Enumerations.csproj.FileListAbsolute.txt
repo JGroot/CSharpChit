@@ -1,0 +1,6 @@
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\Enumerations\bin\Debug\Enumerations.exe.config
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\Enumerations\obj\Debug\Enumerations.csprojResolveAssemblyReference.cache
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\Enumerations\obj\Debug\Enumerations.exe
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\Enumerations\obj\Debug\Enumerations.pdb
