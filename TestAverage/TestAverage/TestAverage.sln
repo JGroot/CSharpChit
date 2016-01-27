@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectAndJaggedArray", "..\..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSList", "CSList\CSList.csproj", "{316722FC-1272-4183-AA8A-AA3B106A7093}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstringMethods", "SubstringMethods\SubstringMethods.csproj", "{9D543C35-9AC0-43B2-88D3-62C6239865E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrModConcat", "StrModConcat\StrModConcat.csproj", "{055BBDFA-08C1-4C9A-91C8-F6AE9C44AE24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{316722FC-1272-4183-AA8A-AA3B106A7093}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{316722FC-1272-4183-AA8A-AA3B106A7093}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{316722FC-1272-4183-AA8A-AA3B106A7093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D543C35-9AC0-43B2-88D3-62C6239865E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D543C35-9AC0-43B2-88D3-62C6239865E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D543C35-9AC0-43B2-88D3-62C6239865E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D543C35-9AC0-43B2-88D3-62C6239865E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055BBDFA-08C1-4C9A-91C8-F6AE9C44AE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055BBDFA-08C1-4C9A-91C8-F6AE9C44AE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055BBDFA-08C1-4C9A-91C8-F6AE9C44AE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055BBDFA-08C1-4C9A-91C8-F6AE9C44AE24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

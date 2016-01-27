@@ -1,0 +1,6 @@
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\StrModConcat\bin\Debug\StrModConcat.exe.config
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\StrModConcat\bin\Debug\StrModConcat.exe
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\StrModConcat\bin\Debug\StrModConcat.pdb
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\StrModConcat\obj\Debug\StrModConcat.csprojResolveAssemblyReference.cache
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\StrModConcat\obj\Debug\StrModConcat.exe
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\StrModConcat\obj\Debug\StrModConcat.pdb

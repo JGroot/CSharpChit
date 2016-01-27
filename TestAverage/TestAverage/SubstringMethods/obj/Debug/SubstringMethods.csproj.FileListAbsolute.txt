@@ -1,0 +1,6 @@
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\SubstringMethods\bin\Debug\SubstringMethods.exe.config
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\SubstringMethods\bin\Debug\SubstringMethods.exe
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\SubstringMethods\bin\Debug\SubstringMethods.pdb
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\SubstringMethods\obj\Debug\SubstringMethods.csprojResolveAssemblyReference.cache
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\SubstringMethods\obj\Debug\SubstringMethods.exe
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\SubstringMethods\obj\Debug\SubstringMethods.pdb
