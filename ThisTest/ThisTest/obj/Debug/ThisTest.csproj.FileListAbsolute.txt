@@ -1,0 +1,6 @@
+C:\Users\jg105\Documents\ThisTest\ThisTest\bin\Debug\ThisTest.exe.config
+C:\Users\jg105\Documents\ThisTest\ThisTest\bin\Debug\ThisTest.exe
+C:\Users\jg105\Documents\ThisTest\ThisTest\bin\Debug\ThisTest.pdb
+C:\Users\jg105\Documents\ThisTest\ThisTest\obj\Debug\ThisTest.csprojResolveAssemblyReference.cache
+C:\Users\jg105\Documents\ThisTest\ThisTest\obj\Debug\ThisTest.exe
+C:\Users\jg105\Documents\ThisTest\ThisTest\obj\Debug\ThisTest.pdb
