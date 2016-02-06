@@ -1,0 +1,5 @@
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\CSList\bin\Debug\CSList.exe.config
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\CSList\bin\Debug\CSList.exe
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\CSList\bin\Debug\CSList.pdb
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\CSList\obj\Debug\CSList.exe
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\CSList\obj\Debug\CSList.pdb

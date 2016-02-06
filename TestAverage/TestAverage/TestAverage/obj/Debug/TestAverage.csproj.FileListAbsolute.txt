@@ -1,0 +1,5 @@
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\TestAverage\bin\Debug\TestAverage.exe.config
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\TestAverage\obj\Debug\TestAverage.csprojResolveAssemblyReference.cache
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\TestAverage\obj\Debug\TestAverage.Form1.resources
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\TestAverage\obj\Debug\TestAverage.Properties.Resources.resources
+C:\Users\jg105\Documents\GIT\CSharpChit\TestAverage\TestAverage\TestAverage\obj\Debug\TestAverage.csproj.GenerateResource.Cache
