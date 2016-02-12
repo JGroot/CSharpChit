@@ -3,3 +3,9 @@ C:\Users\jg105\Documents\GIT\CSharpChit\RectAndJaggedArray\bin\Debug\RectAndJagg
 C:\Users\jg105\Documents\GIT\CSharpChit\RectAndJaggedArray\bin\Debug\RectAndJaggedArray.pdb
 C:\Users\jg105\Documents\GIT\CSharpChit\RectAndJaggedArray\obj\Debug\RectAndJaggedArray.exe
 C:\Users\jg105\Documents\GIT\CSharpChit\RectAndJaggedArray\obj\Debug\RectAndJaggedArray.pdb
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\RectAndJaggedArray\bin\Debug\RectAndJaggedArray.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\RectAndJaggedArray\obj\Debug\RectAndJaggedArray.exe
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\RectAndJaggedArray\obj\Debug\RectAndJaggedArray.pdb
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\RectAndJaggedArray\bin\Debug\RectAndJaggedArray.exe
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\RectAndJaggedArray\bin\Debug\RectAndJaggedArray.pdb
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\RectAndJaggedArray\obj\Debug\RectAndJaggedArray.csprojResolveAssemblyReference.cache

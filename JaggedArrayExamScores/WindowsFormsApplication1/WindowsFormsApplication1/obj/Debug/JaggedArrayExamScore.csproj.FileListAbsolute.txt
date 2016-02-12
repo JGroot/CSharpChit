@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\JaggedArrayExamScores\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\JaggedArrayExamScores\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\JaggedArrayExamScores\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\JaggedArrayExamScores\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\JaggedArrayExamScores\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\JaggedArrayExamScores\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\JaggedArrayExamScore.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\JaggedArrayExamScores\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\JaggedArrayExamScores\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\JaggedArrayExamScore.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\JaggedArrayExamScores\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ExamScores.resources

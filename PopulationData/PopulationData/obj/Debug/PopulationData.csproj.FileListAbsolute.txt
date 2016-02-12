@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\PopulationData\PopulationData\bin\Debug\PopulationData.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\PopulationData\PopulationData\obj\Debug\PopulationData.frmPopulationData.resources
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\PopulationData\PopulationData\obj\Debug\PopulationData.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\PopulationData\PopulationData\obj\Debug\PopulationData.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\PopulationData\PopulationData\bin\Debug\PopulationData.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\PopulationData\PopulationData\bin\Debug\PopulationData.exe
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\PopulationData\PopulationData\bin\Debug\PopulationData.pdb
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\PopulationData\PopulationData\obj\Debug\PopulationData.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\PopulationData\PopulationData\obj\Debug\PopulationData.exe
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\PopulationData\PopulationData\obj\Debug\PopulationData.pdb
