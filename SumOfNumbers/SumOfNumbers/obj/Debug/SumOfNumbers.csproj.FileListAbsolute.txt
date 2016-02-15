@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.frmCalculate.resources
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+C:\Users\Admin\Documents\GitHub\CSharpChit\CSharpChit\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.pdb
