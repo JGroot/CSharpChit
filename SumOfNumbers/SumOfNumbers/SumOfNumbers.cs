@@ -31,16 +31,21 @@ namespace SumOfNumbers
             string[] numbers = { };
             decimal total = 0;
             string error = string.Empty;
+            lblError.Text = string.Empty;
 
             if (input != string.Empty)
             {
                 numbers = Regex.Split(input, "\\s?,\\s?");
                 foreach (string number in numbers)
                 {
-                    if (Regex.IsMatch(number, "^\\d*\\.?\\d+?$"))
-                        total += Convert.ToDecimal(number);
-                    else
-                        error += "\'"+ number +"\'" + "is not a valid number." + Environment.NewLine;
+                    if (number != string.Empty)
+                    {
+                        string formattedNum = number.Trim();
+                        if (Regex.IsMatch(formattedNum, "^\\d*\\.?\\d+?$"))
+                            total += Convert.ToDecimal(formattedNum);
+                        else
+                            error += "\'" + formattedNum + "\'" + "is not a valid number." + Environment.NewLine;
+                    }
                 }
             }
             lblAnswer.Text = total.ToString();
