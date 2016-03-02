@@ -1,0 +1,22 @@
+﻿Build started 3/1/2016 7:57:02 PM.
+     1>Project "C:\Users\jg105\Documents\GIT\CSharpChit\CSharpChit\ClassTemplates\ClassTemplates\ClassTemplates.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ClassTemplate.cpp myString.cpp
+         myString.cpp
+     1>c:\users\jg105\documents\git\csharpchit\csharpchit\classtemplates\classtemplates\mystring.cpp(13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+         ClassTemplate.cpp
+     1>c:\users\jg105\documents\git\csharpchit\csharpchit\classtemplates\classtemplates\listtype.h(27): warning C4520: 'listType<int>' : multiple default constructors specified
+                 c:\users\jg105\documents\git\csharpchit\csharpchit\classtemplates\classtemplates\classtemplate.cpp(8) : see reference to class template instantiation 'listType<int>' being compiled
+     1>c:\users\jg105\documents\git\csharpchit\csharpchit\classtemplates\classtemplates\listtype.h(27): warning C4520: 'listType<newString>' : multiple default constructors specified
+                 c:\users\jg105\documents\git\csharpchit\csharpchit\classtemplates\classtemplates\classtemplate.cpp(9) : see reference to class template instantiation 'listType<newString>' being compiled
+     1>c:\users\jg105\documents\git\csharpchit\csharpchit\classtemplates\classtemplates\classtemplate.cpp(9): error C2668: 'listType<newString>::listType' : ambiguous call to overloaded function
+                 c:\users\jg105\documents\git\csharpchit\csharpchit\classtemplates\classtemplates\listtype.h(17): could be 'listType<newString>::listType(void)'
+                 c:\users\jg105\documents\git\csharpchit\csharpchit\classtemplates\classtemplates\listtype.h(16): or       'listType<newString>::listType(int)'
+                 while trying to match the argument list '()'
+         Generating Code...
+     1>Done Building Project "C:\Users\jg105\Documents\GIT\CSharpChit\CSharpChit\ClassTemplates\ClassTemplates\ClassTemplates.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.83
